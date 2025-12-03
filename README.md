@@ -1,4 +1,6 @@
 ### Hi, I'm Ragini! 👋
+Portfolio: https://gamma.app/docs/Ragini-Singh-znwmex3oaid8n7f?mode=doc
+
 👀 I’m interested in  Data Science
 🎓 I'm a final-year Data Science student with a passion for solving real-world problems using data and technology. My interests lie in **Data Analytics**, and **web scraping**,**machine learning**.
 
